@@ -1,8 +1,9 @@
 import logging
 from functions import ids, TvaSQI
 from aiogram import Bot, Dispatcher, executor, types
+import key
 
-API_TOKEN = '5090664076:AAGFo70fDDyZjIaotO4lHKr_BIxZczKsBC8'
+API_TOKEN = key.TOKEN
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
