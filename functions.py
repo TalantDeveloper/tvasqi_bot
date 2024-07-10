@@ -1,0 +1,131 @@
+ids = [
+    670516103,
+    905480347,
+    339298358,
+    846458176,
+    1124360847,
+    1751021292,
+    1711735591,
+    845453195,
+    1641286382,
+    1284155149,
+    729947507,
+    349457600,
+    1146320445,
+    896458068,
+    910528138,
+    698010075,
+    5057544098,
+    1155939316,
+    1773972799,
+    837689094,
+    280147586,
+    668145256,
+    1470714953,
+    929666459,
+    776668321,
+    162471992,
+    941194965,
+    736942019,
+    982203491,
+    1197442796,
+    1816542868,
+    615056348,
+    1510114505,
+    1561642157,
+    813858727,
+    1109013033,
+    2046455600,
+    555495794,
+    873753726,
+    720017092,
+    1490564055,
+    2105680316,
+    778912691,
+    1066486213,
+    904150563,
+    1331223811,
+    941130502,
+    1859273891,
+    1480085278,
+]
+
+TvaSQI = [
+    {
+        'name': "Signallarga raqamli ishlov berish tizimlarining tuzilishi va tarkibi. Signal va tizimlarning asosiy xususiyatlari. Signallarni qayta ishlash tizimlarining tarkibi va tuzilishi",
+        'link': "https://drive.google.com/file/d/1GjOxrxXcEl5QIfrovWFLly8kfSaDhoNt/view?usp=drivesdk",
+    },
+    {
+        'name': "Vaqt va chastota sohasidagi signallarning tarkibi va ko'rinishi. Signallarning lokal va integral xususiyatlari.",
+        'link': "https://drive.google.com/file/d/1GkxVDySSIIsmk7yYxJf5k4gNzhzsFLwG/view?usp=drivesdk",
+    },
+    {
+        'name': "Signallarni diskretlash, kvantlash va kodlash. Diskretlash chastotasi. Kvantlash asoslari. Kodlash uchun qo'llaniladigan kodlash usullari.",
+        'link': "https://drive.google.com/file/d/1GlfhksXB6bpql3A8aZRGLBWTbkQRulH1/view?usp=drivesdk",
+    },
+    {
+        'name': "Qisqa-vaqtli energiya. Freymlash jarayoni ahamiyati. Noldan o'tuvchi nuqtalar.",
+        'link': "https://drive.google.com/file/d/1Gp1qZUD1NrIGxyG_Rc1OuT5VwEqioZf7/view?usp=drivesdk",
+    },
+    {
+        'name': "Vaqt doirasidagi signallarning bazaviy operatsiyalari. Ketma-ket qiymatlarni qabul qilish bosqichlari. Signallarni bazaviy amallarini bajarish ketma-ketligi",
+        'link': "https://drive.google.com/file/d/1GvgXEySi6bKfsfSZn__9uVG3HOHg03Ng/view?usp=drivesdk",
+    },
+    {
+        'name': "Svyortka va korrelyatsiya algoritmi. Z-o'zgartirish algoritmi. Ketma-ket qiymatlar svyortkasi. Raqamli filtr. Energetik xususiyatlarni hisoblash",
+        'link': "https://drive.google.com/file/d/1H-1O0dymUzZ34CUASvPdWpjK4o5PAwF4/view?usp=drivesdk",
+    },
+    {
+        'name': "Signallarni filtrlash tushunchasi. Analog va raqamli filtrlar, chekli va cheksiz impuls xarakteristikali filtrlar. Filtr koeffitsentlarini hisoblash.",
+        'link': "https://drive.google.com/file/d/1H2lXHC0ybDmoapfJzKANF-gnny4gy4Ui/view?usp=drivesdk",
+    },
+    {
+        'name': "Signallarning interpolyatsiyalash va approksimatsiyalash usullari. Polonomial interpolyatsiya. Splayn interpolyatsiya. Interpolyatsiyaning spectral usuli",
+        'link': "https://drive.google.com/file/d/1H5_zhygasSXHeRr87mkWLTJWBRyK3yFH/view?usp=drivesdk",
+    },
+    {
+        'name': "FURYE Wavelet o'zgartirish asoslari. Signallarni siqish jarayoni. Diskret wavley o'zgartirish. Uzluksiz wavlet o'zgartirish.",
+        'link': "https://drive.google.com/file/d/1HCo63M71G5wZeZ4vxPjmsmlAnMimVhLn/view?usp=drivesdk",
+    },
+    {
+        'name': "Wavelet o'zgartirish asoslari. Signallarni siqish jarayoni. Diskret wavley o'zgartirish. Uzluksiz wavlet o'zgartirish.",
+        'link': "https://drive.google.com/file/d/1HD2Yb_UV_batGFuwG3sogMoQoHGt2yVB/view?usp=drivesdk",
+    },
+    {
+        'name': "Signallarga spektral ishlov berish tizimlari. Xaara bazislarida spektral analiz asoslari.\n Arrasimon o'zgartirish algoritmi va matrisasi. Lokal spektral o'zgartirishlarning algoritmlari",
+        'link': "https://drive.google.com/file/d/1HKIaI7L1o8TNAH7g7zuzsyfnxwRjsONg/view?usp=drivesdk",
+    },
+    {
+        'name': "Signal protsesssorlarining arxitekturasi va xotirasini tashkil etish.\n Signal protsessorlari xotirasining tashkil etilish.",
+        'link': "https://drive.google.com/file/d/1HaG-wjAXki_f6y04dSj6Wn94q_qXlA03/view?usp=drivesdk",
+    },
+    {
+        'name': "Signal protsessorlarida adreslash usullari. Signl protsessorlari uchun tizimli va amaliy ishlov berish dasturlari.",
+        'link': "https://drive.google.com/file/d/1HbT34mUtZ_cq2m2gH3qIsXw89Aa0GRI6/view?usp=drivesdk",
+    },
+    {
+        'name': "Real vaqtda ishlov berish tizimlari.\n QNX operatsion tizimi.\n Signallarga real-vaqt rejimida raqamli ishlov berish bosqichlari.",
+        'link': "https://drive.google.com/file/d/1He3JrEL-AvDRVGfHyjV9jDw71qmcLsmK/view?usp=drivesdk",
+    },
+    {
+        'name': "SRIB \n Signallarga ishlov berishning apparat vositalari \n ADSP-BF561 \n RSP C2000",
+        'link': "https://drive.google.com/file/d/1Hf13UZCAOLUvAlS5U2r3AFusPq_SRr4K/view?usp=drivesdk",
+    },
+    {
+        'name': "Signal protsessorlarining oilasi.\n ADSP-2100 \n Tiger SHARC oilasining signal protsessorlari. \nZamonaviy signal protsessorlari turlari va dasturlash imkoniyatlari.",
+        'link': "https://drive.google.com/file/d/1HfiPX2SFIYqwhXKgsbnXl4CiWW6I8QlD/view?usp=drivesdk",
+    },
+    {
+        'name': "Nutq signallari, tibbiyotdagi signallarda qo'llaniladigan algoritmlar.\n Nutqni tanish tizimlarida raqamli ishlov berish bosqichlari. \nTibbiyot qurilmalaridan signallarni qabul qilish va ishlov berish",
+        'link': "https://drive.google.com/file/d/1HjYmMnJ7ry8spxeHz2glqqKId_IaDiBR/view?usp=drivesdk",
+    },
+    {
+        'name': "Video ma'lumotlarga ishlov berish tizimlari. Audio signallarning turlari va algoritmi Audio signallarning amaliy dasturlari.",
+        'link': "https://drive.google.com/file/d/1HkKJ65flncbdYCRmEltpUFD5_ql7aaun/view?usp=drivesdk",
+    },
+    {
+        'name': "Signal protsessorlari uchun sinov va diagnostika vositalari. \n Texas Instruments \n C2000, С5000  С6000 \nTMS320C64xx",
+        'link': "https://drive.google.com/file/d/1HkitPco69z_JuxnNZvn2lQvgqq8_qwxQ/view?usp=drivesdk",
+    },
+]
+
